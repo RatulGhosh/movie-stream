@@ -2,7 +2,7 @@
 
 A simple python script for streaming movies directly from torrent.
 
-# <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
+# <img src="https://github.com/RatulGhosh/movie-stream/blob/master/LICENSE" width="80" />
 
 ## Installation
 
