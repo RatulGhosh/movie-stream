@@ -1,4 +1,4 @@
-# <img src="http://www.coquo.co.uk/assets/uploads/2013/10/live-streaming.svg width="150" " /> Movie-Stream
+# <img src="http://www.coquo.co.uk/assets/uploads/2013/10/live-streaming.svg" width="150" /> Movie-Stream
 
 A simple python script for streaming movies directly from torrent.
 
