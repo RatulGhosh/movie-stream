@@ -10,6 +10,7 @@ Requirements:
 
 * [Python](https://www.python.org/)
 * [Node.js](https://nodejs.org/en/)
+* [VLC](http://www.videolan.org/)
 
 Clone and start the app:
 
