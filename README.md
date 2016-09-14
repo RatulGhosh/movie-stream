@@ -21,3 +21,4 @@ pip install beautifulsoup4
 pip install requests
 python stream.py
 ```
+#### Note : Viewing copyrighted contents might be illegal in your country. Use it at your own risk!
