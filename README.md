@@ -25,7 +25,7 @@ git clone https://github.com/RatulGhosh/movie-stream
 cd movie-stream
 python setup.py install
 ```
-Usage:
+## Usage
 type tvlc.py in the terminal or command prompt and then enter the movie name.
 
 #### Note : Viewing copyrighted contents might be illegal in your country. Use it at your own risk!
