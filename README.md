@@ -12,14 +12,17 @@ Requirements:
 * [Node.js](https://nodejs.org/en/)
 * [VLC](http://www.videolan.org/)
 
+Pip install:
+```sh
+pip install tvlc
+```
+or 
+
 Clone and start the app:
 
 ```sh
 git clone https://github.com/RatulGhosh/movie-stream
 cd movie-stream
-npm install -g peerflix
-pip install beautifulsoup4
-pip install requests
-python stream.py
+python setup.py install
 ```
 #### Note : Viewing copyrighted contents might be illegal in your country. Use it at your own risk!
