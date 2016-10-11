@@ -37,8 +37,14 @@ def stream_movie(search_url):
     os.system('peerflix ' + '\"' + link1 + '\"' + ' --vlc')    
 
 
+
 if __name__ == "__main__":
-    #test_system()
+
+    if os.system('npm --version') != 0:
+        print 'Please install npm'
+        exit()
+    if os.system('peerflix --version') != 0:
+        os.system('npm install -g peerflix')
     movie = get_movie()
     url = 'http://www.yify-movies.net/search/' + movie + 'seed/'
     try:
